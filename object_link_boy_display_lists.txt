@@ -1,0 +1,73 @@
+06010A10 : Waist
+06011018 : Left Thigh
+060115E0 : Left Shin
+06011B30 : Left Foot
+06011F58 : Right Thigh
+06012530 : Right Shin
+06012A80 : Right Foot
+06012CC8 : Collar
+06013048 : Torso
+06013FD8 : Head
+06014960 : Hat
+06014D88 : Left Shoulder
+06015248 : Left Forearm
+06015740 : Right Shoulder
+06015C08 : Right Forearm
+06016660 : FPS Left Forearm
+06017738 : FPS Left Hand
+060181B8 : FPS Right Forearm
+06018E80 : FPS Right Hand
+060195C0 : Left Hand
+06019B30 : Left Fist
+0601A060 : Outstretched Hand
+0601A6C8 : Right Hand
+0601AC40 : Right Fist
+0601B070 : Left Gauntlet Forearm
+0601B3A0 : Left Silver Gauntlet Hand
+0601B770 : Left Golden Gauntlet Hand
+0601BA60 : Right Gauntlet Forearm
+0601BD90 : Right Silver Gauntlet Hand
+0601C160 : Right Golden Gauntlet Hand
+0601C580 : Left Iron Boot
+0601C9A8 : Right Iron Boot
+0601CFF0 : Left Hover Boot
+0601D6F8 : Right Hover Boot
+0601DA90 : Hookshot Chains
+0601DBB8 : Bow String
+0601DD48 : Hookshot Spike
+0601E128 : Broken Giant's Knife Blade (Breaking animation)
+0601E248 : Hookshot Aiming Reticule
+0601E470 : Master Sword Sheath
+0601EAB0 : Master Sword Hilt
+0601F0F0 : Master Sword Blade
+0601F460 : Biggoron Sword Hilt
+0601F808 : Biggoron Sword Blade
+0601FA38 : Biggoron Sword Blade (Broken)
+0601FCB0 : Hylian Shield
+060201E8 : Mirror Shield
+060211A0 : Megaton Hammer
+060218B0 : Fairy Bow
+06021E00 : Hookshot
+060221D8 : Ocarina of Time
+060224A8 : Bottle
+060225C0 : MATRIX Append Master Sword Hilt to Sheath
+06022600 : MATRIX Rotate Shield to Back
+06022640 : Sword + Sheath
+06022670 : Rotated Hylian Shield
+06022690 : Rotated Mirror Shield
+060226B0 : Right Fist + Hylian Shield
+060226D0 : Right Fist + Mirror Shield
+060226F0 : Hylian Shield + Sword + Sheath
+06022710 : Mirror Shield + Sword + Sheath
+06022730 : Hylian Shield + Sheath
+06022750 : Mirror Shield + Sheath
+06022770 : Left Fist + Master Sword
+06022790 : Left Fist + Biggoron Sword
+060227B0 : Left Fist + Broken Giant's Knife
+060227D0 : Left Fist + Megaton Hammer
+060227F0 : Right Hand + Ocarina of Time
+06022810 : Right Fist + Fairy Bow
+06022830 : Right Fist + Hookshot
+06022850 : FPS Right Hand + Hookshot
+06022870 : FPS Right Hand + Fairy Bow
+06022890 : Master Sword Emblem
