@@ -65,48 +65,48 @@
 .org 0x00B9D03C ;// 060202A8 ; Waist
 .word 0x06017E60
 .org 0x00B9D04C ;// 06015DF0 ; Right Fist + Fairy Slingshot (Fairy Bow?)
-.word 0x
+.word 0x0601F210
 .org 0x00B9D05C ;// 06015BA8 ; Right Hand + Fairy Ocarina
-.word 0x
+.word 0x0601F240
 .org 0x00B9D06C ;// 06015958 ; Right Hand + Ocarina of Time
-.word 0x
+.word 0x0601F230
 .org 0x00B9D07C ;// 060141C0 ; Right Fist + Hookshot
-.word 0x
+.word 0x06017700
 .org 0x00B9D08C ;// 06013CB0 ; Left Fist + Megaton Hammer
-.word 0x
+.word 0x06016C78
 .org 0x00B9D09C ;// 06014660 ; Left Fist + Boomerang
-.word 0x
+.word 0x0601F200
 .org 0x00B9D0AC ;// 06015FD0 ; Outstretched Hand for Holding Bottles
-.word 0x
+.word 0x06017008
 .org 0x00B9D0BC ;// 00000000 ; FPS Left Forearm
-.word 0x
+.word 0x00000000
 .org 0x00B9D0C4 ;// 00000000 ; FPS Left Hand
-.word 0x
+.word 0x00000000
 .org 0x00B9D0CC ;// 06021AE8 ; Right Shoulder
-.word 0x
+.word 0x06015FF0
 .org 0x00B9D0D4 ;// 00000000 ; FPS Right Forearm
-.word 0x
+.word 0x00000000
 .org 0x00B9D0DC ;// 06018048 ; FPS Right Arm + Fairy Slingshot
-.word 0x
+.word 0x0601B340
 .org 0x00B9D29C ;// 06018478 ; Empty Bottle
-.word 0x
+.word 0x0601B990
 .org 0x00D65900 ;// 06006CC0 ; Broken Deku Stick
-.word 0x
+.word 0x0601BD98
 .org 0x00C236E4 ;// 0602B060 ; Keaton Mask
-.word 0x
+.word 0x0601CBC0
 .org 0x00C236E8 ;// 0602AD40 ; Skull Mask
-.word 0x
+.word 0x0601C330
 .org 0x00C236EC ;// 0602AF70 ; Spooky Mask
-.word 0x
+.word 0x0601C720
 .org 0x00C236F0 ;// 0602CA38 ; Bunny Hood
-.word 0x
+.word 0x0601ED48
 .org 0x00C236F4 ;// 0602B350 ; Goron Mask
-.word 0x
+.word 0x0601D4B0
 .org 0x00C236F8 ;// 0602B580 ; Zora Mask
-.word 0x
+.word 0x0601DA00
 .org 0x00C236FC ;// 0602B788 ; Gerudo Mask
-.word 0x
+.word 0x0601E448
 .org 0x00C23700 ;// 0602B1F0 ; Mask of Truth
-.word 0x
+.word 0x0601CFF0
 
 ;// 0xDB00 bytes of free space between 0x01F2C0 and 0x02CDBF in object_link_child_optimized.zobj
