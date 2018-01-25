@@ -109,4 +109,4 @@
 .org 0x00C23700 ;// 0602B1F0 ; Mask of Truth
 .word 0x0601D780
 
-;// 0xD379 bytes of free space between 0x1FA50 and 0x2CDC7 in object_link_child_optimized.zobj
+;// 0xD288 bytes of free space between 0x1FB40 and 0x2CDC7 in object_link_child_optimized.zobj
