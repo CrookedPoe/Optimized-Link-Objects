@@ -4,25 +4,24 @@
 
 ;// Repoint Display Lists in code.bin
 .org 0x00B068BC ;// 3C0F xxxx 25EF xxxx ; Left Gauntlet Forearm Piece
-.word 0x3C0F0601 0x25EFB070
+.word 0x3C0F0602 0x25EFB070
 .org 0x00B068D8 ;// 3C0B xxxx 256B xxxx ; Right Gauntlet Forearm Piece
-.word 0x3C0B0601 0x256BBA60
+.word 0x3C0B0602 0x256BBA60
 .org 0x00B068F8 ;// 3C18 xxxx 244E 0008 AD0E 02C0 AC45 0000 8DAD 0014 2718 xxxx ; Left Gauntlet Fist Piece
-.word 0x3C180601 0x244E0008
+.word 0x3C180602 0x244E0008
 .word 0xAD0E02C0 0xAC450000
 .word 0x8DAD0014 0x2718B770
 .org 0x00B06910 ;// 3C0C xxxx 15A0 0004 0040 1825 258C xxxx ; Left Gauntlet Hand Piece
-.word 0x3C0C0601 0x15A00004
+.word 0x3C0C0602 0x15A00004
 .word 0x00401825 0x258CB3A0
 .org 0x00B06948 ;// 3C0E xxxx 25CE xxxx ; Right Gauntlet Fist Piece
-.word 0x3C0E0601 0x25CEC160
+.word 0x3C0E0602 0x25CEC160
 .org 0x00B06958 ;// 3C0B xxxx 256B xxxx ; Right Gauntlet Hand Piece
-.word 0x3C0B0601 0x256BBD90
+.word 0x3C0B0602 0x256BBD90
 .org 0x00B07598 ;// 3C0F xxxx 25EF xxxx ; FPS Right Hand + Hookshot
 .word 0x3C0F0602 0x25EF2850
 .org 0x00B07E54 ;// 3C0E xxxx 8328 001E 25CE xxxx ; Hookshot Aiming Riticule
-.word 0x3C0E061E 0x8328001E
-.word 0x25CEE248
+.word 0x3C0E0602 0x8328001E 0x25CEE248
 .org 0x00B9CE88 ;// 060226E0 ; Right Fist
 .word 0x0601AC40
 .org 0x00B9CE98 ;// 060226E0 ; Right Fist + Deku Shield
@@ -116,9 +115,9 @@
 .org 0x00B9D2D4 ;// 0602B108 ; Fairy Bow String
 .word 0x0601DBB8
 .org 0x00C3473C ;// 3C19 xxxx 2739 xxxx ; Hookshot Spike
-.word 0x3C190601 0x2739DD48
+.word 0x3C190602 0x2739DD48
 .org 0x00C34858 ;// 3C0F xxxx 25EF xxxx ; Hookshot Chain
-.word 0x3C0F0601 0x25EFDA90
+.word 0x3C0F0602 0x25EFDA90
 .org 0x00D65C5C ;// 0602BA38 ; Broken Giant's Knife Blade
 .word 0x0601E128
 
