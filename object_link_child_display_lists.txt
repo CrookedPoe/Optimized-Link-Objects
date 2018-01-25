@@ -22,7 +22,6 @@
 06018450 : Kokiri Sword Blade
 060185F0 : Sheath
 06018A38 : Deku Shield
-06018C80 : Hylian Shield (on back)
 060190C8 : Boomerang
 06019AB0 : Master Sword (For Pedestal of Time)
 06019EE0 : Ocarina of Time
@@ -41,8 +40,8 @@
 0601E198 : Zora Mask
 0601EBD8 : Gerudo Mask
 0601F4D8 : Bunny Hood
-0601F8B8 : Hilt Matrix ; Hilt T(-440, 0, -211) R(0, 0, 0)
-0601F8F8 : Shield Matrix ; Shield T(545, 0, 0) R(0, 180, 0)
+0601F8B8 : Hilt Matrix ; Hilt T(-440, -211, 0) R(0, 0, 0)
+0601F8F8 : Shield Matrix ; Shield T(545, 0, 0) R(180, 0, 180)
 0601F938 : Sheathed Kokiri Sword
 0601F960 : Left Fist + Kokiri Sword
 0601F978 : Left Fist + Boomerang
@@ -51,7 +50,9 @@
 0601F9A8 : Right Hand + Ocarina of Time
 0601F9B8 : Right Hand + Fairy Ocarina
 0601F9C8 : Right Fist + Deku Shield
-0601F9E0 : Hylian Shield + Sheathed Kokiri Sword
-0601F9F8 : Hylian Shield + Kokiri Sword Sheath
-0601FA10 : Rotated Deku Shield
-0601FA30 : Deku Shield + Sheathed Sword
+0601F9E0 : Rotated Deku Shield
+0601FA00 : Deku Shield + Sheathed Sword
+0601FA18 : Deku Shield + Sheath
+0601FA30 : Hylian Shield (on back)
+0601FB18 : Hylian Shield + Sheathed Kokiri Sword
+0601FB30 : Hylian Shield + Kokiri Sword Sheath

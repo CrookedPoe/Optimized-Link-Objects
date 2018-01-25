@@ -19,27 +19,27 @@
 .org 0x00B9CECC ;// 06015248 ; Sword + Sheath
 .word 0x0601F938
 .org 0x00B9CEDC ;// 06014D68 ; Deku Shield + Sword + Sheath
-.word 0x0601FA30
+.word 0x0601FA00
 .org 0x00B9CEEC ;// 060148A8 ; Hylian Shield + Sword + Sheath
-.word 0x0601F9E0
+.word 0x0601FB18
 .org 0x00B9CEFC ;// 06015248 ; Mirror Shield + Sword + Sheath
 .word 0x0601F938
 .org 0x00B9CF0C ;// 00000000 ; ?
 .word 0x00000000
 .org 0x00B9CF1C ;// 06022688 ; Deku Shield for on back without Sheath
-.word 0x0601FA10
+.word 0x0601F9E0
 .org 0x00B9CF2C ;// 06015408 ; Sword Sheath
 .word 0x060185F0
 .org 0x00B9CF3C ;// 06015010 ; Deku Shield + Sheath
-.word 0x0601FA10
+.word 0x0601FA18
 .org 0x00B9CF4C ;// 06014B40 ; Hylian Shield + Sheath
-.word 0x0601F9F8
+.word 0x0601FB28
 .org 0x00B9CF5C ;// 06015408 ; Mirror Shield + Sheath
 .word 0x060185F0
 .org 0x00B9CF6C ;// 00000000 ; ?
 .word 0x00000000
 .org 0x00B9CF7C ;// 06022688 ; ? (Deku Shield for on back without Sheath)
-.word 0x0601FA10
+.word 0x0601F9E0
 .org 0x00B9CF8C ;// 06015540 ; Left Fist + Biggoron Sword
 .word 0x0601F998
 .org 0x00B9CF9C ;// 06015540 ; Left Fist + Broken Giant's Knife
@@ -90,8 +90,8 @@
 .word 0x0601BAD0
 .org 0x00B9D29C ;// 06018478 ; Empty Bottle
 .word 0x0601C120
-.org 0x00D65900 ;// 06006CC0 ; Broken Deku Stick
-.word 0x0601C528
+.org 0x00B9D2E4 ;// 060221A8 ; Fairy Slingshot String
+.word 0x0601C288
 .org 0x00C236E4 ;// 0602B060 ; Keaton Mask
 .word 0x0601D350
 .org 0x00C236E8 ;// 0602AD40 ; Skull Mask
