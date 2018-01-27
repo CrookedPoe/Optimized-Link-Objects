@@ -203,3 +203,4 @@
 .word 0x0601F290
 
 ;0xD5C0 bytes of free space between 0x1F808 and 0x2CDC7 in object_link_child_optimized.zobj
+;30% of the file is completely null.

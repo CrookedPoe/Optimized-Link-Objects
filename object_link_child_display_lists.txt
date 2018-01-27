@@ -23,7 +23,7 @@
 060183C8 : Kokiri Sword Hilt
 06018678 : Kokiri Sword Blade
 06018FC8 : Master Sword (For Pedestal of Time)
-060194A8 : Bottle
+060194A8 : Empty Bottle
 06019900 : Boomerang
 06019D58 : Deku Shield
 06019FA0 : Hylian Shield (on Back)
