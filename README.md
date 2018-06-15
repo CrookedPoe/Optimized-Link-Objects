@@ -16,10 +16,12 @@ The patch is a .txt file which can be applied to your ROM with CloudMax's rom pa
 
 # Reported Bugs
 ---
-* The game locks during the Navi Flying Cutscene in the beginning of the game when approaching the NPC on the shop awning.
-  * I can't think of a reason why yet.
+* ~~The game locks during the Navi Flying Cutscene in the beginning of the game when approaching the NPC on the shop awning.~~
+  * ~~I can't think of a reason why yet. (found by Agoat)~~
+  * Solved by Dr. Disco on 6/15/2018, a stray pointer in Item_Shield was not changed properly.
 
-* Room 119 refuses to load as Child Link.
-  * Still looking into this.
+* ~~Room 119 refuses to load as Child Link.~~
+  * ~~Still looking into this. (found by AriaHiroDKD)~~
+  * Solved by Dr. Disco on 6/15/2018, a stray pointer in Item_Shield was not changed properly.
 
 CrookedPoe 2018

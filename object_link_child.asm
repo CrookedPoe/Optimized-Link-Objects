@@ -127,7 +127,11 @@
 ; Deku Shield without Sheath
 .org 0x00B9CF1C
 .word 0x0601F718
+.org 0x00B9CF24
+.word 0x0601F718
 .org 0x00B9CF7C
+.word 0x0601F718
+.org 0x00B9CF84
 .word 0x0601F718
 
 ; ?
@@ -201,6 +205,10 @@
 ; Bunny Hood
 .org 0x00C236F0
 .word 0x0601F290
+
+; Deku Shield (Item_Shield)
+.org 0x00F35D34
+.word 0x3C040602 0x24849D58
 
 ;0xD5C0 bytes of free space between 0x1F808 and 0x2CDC7 in object_link_child_optimized.zobj
 ;30% of the file is completely null.
